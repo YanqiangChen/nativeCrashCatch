@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/chenyanqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/.cxx/Debug/l2f4d4a6/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/chenyanqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/.cxx/Debug/l2f4d4a6/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "myapplication-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/chenyanqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/.cxx/Debug/l2f4d4a6/arm64-v8a",
+        "myapplication"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "myapplication",
+      "output": "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/build/intermediates/cxx/Debug/l2f4d4a6/obj/arm64-v8a/libmyapplication.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

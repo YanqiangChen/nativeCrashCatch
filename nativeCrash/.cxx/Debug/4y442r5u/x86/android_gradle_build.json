@@ -1,0 +1,54 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/src/main/cpp/CMakeLists.txt",
+    "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/src/main/cpp/breakpad/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/chenyanqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/chenyanqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "breakpad-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/chenyanqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86",
+        "breakpad"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "breakpad",
+      "output": "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86/breakpad/libbreakpad.a"
+    },
+    "nativecrash-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/chenyanqiang/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86",
+        "nativecrash"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "nativecrash",
+      "output": "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/build/intermediates/cxx/Debug/4y442r5u/obj/x86/libnativecrash.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

@@ -1,0 +1,6 @@
+# ninja log v5
+0	14	0	clean	2b3bf3ade4361767
+0	16	0	clean	2b3bf3ade4361767
+0	13	0	clean	2b3bf3ade4361767
+0	332	1672499603	CMakeFiles/myapplication.dir/native-lib.cpp.o	24688e01641cd99c
+332	405	1672499603	/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/build/intermediates/cxx/Debug/l2f4d4a6/obj/armeabi-v7a/libmyapplication.so	230456a2be98f5cf

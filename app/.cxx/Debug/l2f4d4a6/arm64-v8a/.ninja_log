@@ -1,0 +1,13 @@
+# ninja log v5
+0	312	1672481527	CMakeFiles/myapplication.dir/native-lib.cpp.o	664d550a1bc52271
+312	388	1672481527	/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/build/intermediates/cxx/Debug/l2f4d4a6/obj/arm64-v8a/libmyapplication.so	10a9958eb92f02ca
+0	15	0	clean	2b3bf3ade4361767
+2	537	1672496962	CMakeFiles/myapplication.dir/native-lib.cpp.o	664d550a1bc52271
+537	726	1672496962	/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/build/intermediates/cxx/Debug/l2f4d4a6/obj/arm64-v8a/libmyapplication.so	10a9958eb92f02ca
+0	11	0	clean	2b3bf3ade4361767
+1	518	1672499277	CMakeFiles/myapplication.dir/native-lib.cpp.o	664d550a1bc52271
+518	608	1672499277	/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/build/intermediates/cxx/Debug/l2f4d4a6/obj/arm64-v8a/libmyapplication.so	10a9958eb92f02ca
+0	11	0	clean	2b3bf3ade4361767
+0	286	1672499603	CMakeFiles/myapplication.dir/native-lib.cpp.o	664d550a1bc52271
+286	374	1672499603	/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/build/intermediates/cxx/Debug/l2f4d4a6/obj/arm64-v8a/libmyapplication.so	10a9958eb92f02ca
+1	208	1672499711	/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/build/intermediates/cxx/Debug/l2f4d4a6/obj/arm64-v8a/libmyapplication.so	10a9958eb92f02ca

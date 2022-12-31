@@ -1,0 +1,3 @@
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/.cxx/Debug/l2f4d4a6/x86/CMakeFiles/rebuild_cache.dir
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/.cxx/Debug/l2f4d4a6/x86/CMakeFiles/edit_cache.dir
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/.cxx/Debug/l2f4d4a6/x86/CMakeFiles/myapplication.dir

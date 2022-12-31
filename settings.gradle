@@ -1,0 +1,15 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "NativeCrashCatch"
+include ':app'
+include ':crash'
+include ':crash2'
+include ':crashlibtest'
+include ':breakPad'
+include ':nativeCrash'

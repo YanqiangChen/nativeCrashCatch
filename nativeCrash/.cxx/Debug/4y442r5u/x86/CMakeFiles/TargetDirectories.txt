@@ -1,0 +1,6 @@
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86/CMakeFiles/rebuild_cache.dir
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86/CMakeFiles/edit_cache.dir
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86/CMakeFiles/nativecrash.dir
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86/breakpad/CMakeFiles/rebuild_cache.dir
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86/breakpad/CMakeFiles/edit_cache.dir
+/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/nativeCrash/.cxx/Debug/4y442r5u/x86/breakpad/CMakeFiles/breakpad.dir

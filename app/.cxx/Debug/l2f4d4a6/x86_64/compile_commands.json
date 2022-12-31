@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/.cxx/Debug/l2f4d4a6/x86_64",
+  "command": "/Users/chenyanqiang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/Users/chenyanqiang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenyanqiang/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dmyapplication_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/myapplication.dir/native-lib.cpp.o -c /Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/chenyanqiang/AndroidStudioProjects/NativeCrashCatch/app/src/main/cpp/native-lib.cpp"
+}
+]
